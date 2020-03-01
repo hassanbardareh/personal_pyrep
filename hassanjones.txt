@@ -1,0 +1,5 @@
+hassanjones.txt
+nano --help
+git add .
+git status
+
